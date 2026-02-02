@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Humphrey Muli | Spark83 Hub</title>
+  <style>
+    body {font-family: Arial, sans-serif; margin:0; background:#f4f6f8; color:#333;}
+    header {background:#0f172a; color:#fff; padding:40px 20px; text-align:center;}
+    header h1 {margin:0; font-size:32px;}
+    header p {margin-top:10px; font-size:18px;}
+    section {padding:40px 20px; max-width:1000px; margin:auto;}
+    h2 {color:#0f172a; margin-bottom:20px;}
+    .grid {display:grid; grid-template-columns:repeat(auto-fit, minmax(250px,1fr)); gap:20px;}
+    .card {background:#fff; padding:20px; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.08);}    
+    footer {background:#0f172a; color:#fff; text-align:center; padding:20px;}
+    a {color:#2563eb; text-decoration:none; font-weight:bold;}
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Humphrey Muli</h1>
+  <p>Accounting • IT • Computer Science • Web & Digital Services</p>
+  <p><strong>Spark83 Hub</strong></p>
+</header>
+
+<section>
+  <h2>About Me</h2>
+  <p>
+    I am an advanced-level, multi-skilled professional with strong expertise in accounting, IT systems, computer science, and web & digital services. 
+    Through Spark83 Hub, I help businesses manage finances, automate processes, solve technical problems, and build a strong digital presence.
+  </p>
+</section>
+
+<section>
+  <h2>Core Skills</h2>
+  <div class="grid">
+    <div class="card"><strong>Accounting & Finance</strong><br/>Bookkeeping, Accounts Payable & Receivable, Bank Reconciliation, Budgeting, Payroll</div>
+    <div class="card"><strong>Computer Science & IT</strong><br/>Python Programming, Database Management, System Troubleshooting, Automation</div>
+    <div class="card"><strong>Web & Digital Services</strong><br/>Website Design, HTML & CSS, Graphic Design, Branding</div>
+    <div class="card"><strong>Professional Skills</strong><br/>Problem Solving, Communication, Time Management, Documentation</div>
+  </div>
+</section>
+
+<section>
+  <h2>Projects</h2>
+  <div class="grid">
+    <div class="card">Small Business Accounting System – Income, expense tracking & reporting</div>
+    <div class="card">Python Automation Tool – Automated calculations and data processing</div>
+    <div class="card">Business Website Development – Professional service-based website layouts</div>
+    <div class="card">Database Management Project – Relational DB design using DBMS principles</div>
+    <div class="card">Spark83 Hub – Multi-service digital & business solutions brand</div>
+  </div>
+</section>
+
+<section>
+  <h2>Services</h2>
+  <ul>
+    <li>Accounting & Bookkeeping Services</li>
+    <li>IT Support & System Setup</li>
+    <li>Python Programming & Automation</li>
+    <li>Website Design & Maintenance</li>
+    <li>Graphic Design & Branding</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Contact</h2>
+  <p>
+    📧 Email: <a href="mailto:humphreymuli83@gmail.com">humphreymuli83@gmail.com</a><br/>
+    📱 Phone: +254 790 951 792<br/>
+    🌍 Availability: Remote | Freelance | Full-Time
+  </p>
+</section>
+
+<footer>
+  <p>© 2026 Spark83 Hub | Humphrey Muli</p>
+</footer>
+
+</body>
+</html>
